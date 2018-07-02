@@ -3,8 +3,6 @@ import * as React from 'react';
 import JoinGame from '../../components/JoinGame';
 import SignUpModal from '../../components/SignUpModal';
 
-import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
-import './style.css';
 
 class App extends React.Component {
 

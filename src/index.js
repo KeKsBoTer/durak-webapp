@@ -8,8 +8,6 @@ import InGame from './view/InGame';
 
 import registerServiceWorker from './registerServiceWorker';
 
-import './index.css'; 
-
 ReactDOM.render(
     <Router>
       <div>

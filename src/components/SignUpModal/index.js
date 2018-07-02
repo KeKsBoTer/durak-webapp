@@ -2,9 +2,8 @@ import * as React from 'react';
 
 import { Button, Input, Modal } from 'antd';
 
-import 'antd/dist/antd.css';  // or 'antd/dist/antd.less'
 import icon from './icon.png';
-import styles from './style.css';
+import styles from './style.module.css';
 
 const host = "http://localhost:8080"
 
